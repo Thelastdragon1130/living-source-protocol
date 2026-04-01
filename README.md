@@ -1,16 +1,48 @@
 # Living Source Protocol (LSC)
 
-## The Origin of Authority
-
-Living Source Coin (LSC) is a governance-first protocol built on a simple truth:
-
-> Authority originates from the source.
+### A Governance-First System for Origin-Aligned Execution
 
 ---
 
-## Architecture
+## ⚡ Core Principle
+
+> Authority originates from the source.  
+> Systems must reflect, not distort, that origin.
+
+---
+
+## 🧠 What This Is
+
+Living Source Coin (LSC) is not just a token.
+
+It is:
+- A governance system  
+- A coordination layer  
+- A bridge between human intent and system execution  
+
+---
+
+## 🏗️ Architecture
 
 ![Architecture](./architecture-diagram.png)
+
+---
+
+## 🔑 Core Layers
+
+### 1. Living Source (Origin)
+The initiating force of intent, action, and agreement.
+
+### 2. Governance (Central Node)
+The alignment system ensuring truth, integrity, and coordination.
+
+### 3. Execution
+AI, smart contracts, and institutions carrying out decisions.
+
+### 4. Ledger
+The memory layer preserving records and state.
+
+---
 
 ---
 
