@@ -1,6 +1,23 @@
-# Living Source Protocol (LSC)
+🧠 Living Source Protocol (LSC)
 
 ### A Governance-First System for Origin-Aligned Execution
+
+---
+
+> Authority originates from the source.  
+> Systems must reflect, not distort, that origin.
+
+---
+
+## ⚡ What This Is
+
+Living Source Coin (LSC) is not just a token.
+
+It is:
+
+- 🧠 A governance system  
+- 🔗 A coordination layer  
+- ⚙️ A bridge between human intent and system 
 
 ---
 
@@ -84,22 +101,7 @@ To create systems where:
 - Execution remains aligned with truth  
 - Memory is preserved without corruption  
 
----
-
-## Status
-## 🌐 Status
-
-- Live public whitepaper  
-- Architecture defined  
-- Governance system structured  
-- Protocol in development  
-
-🚧 Active Development  
-🌐 Public Infrastructure Phase  
-
----
-
-## 📚 Full Whitepaper Section
+- ## 📚 Full Whitepaper Section
 
 Full documentation is currently being structured and organized.
 
@@ -125,5 +127,27 @@ Core sections include:
 - Incentives  
 - Roadmap  
 - Risks  
-- Final Statement  
+- Final Statement
+
+- ---
+
+## 🌐 Vision
+
+To build systems where:
+
+- The source is never lost  
+- Authority cannot be inverted  
+- Execution remains aligned  
+- Records remain true  
+
+---
+
+## 🚧 Status
+
+- Public infrastructure live  
+- Protocol defined  
+- Governance structured  
+- System expanding  
+
+---
 
