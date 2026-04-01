@@ -99,26 +99,31 @@ To create systems where:
 
 ---
 
-## 📚 Full Whitepaper Sections
+## 📚 Full Whitepaper Section
 
-- [Executive Summary](docs/01-executive-summary.md)
-- [Problem](docs/02-problem.md)
-- [Living Source Protocol](docs/03-living-source-protocol.md)
-- [Ontology](docs/04-ontology.md)
-- [Architecture](docs/05-architecture.md)
-- [Authority Model](docs/06-authority-model.md)
-- [Record & Ledger](docs/07-record-ledger.md)
-- [Identity](docs/08-identity.md)
-- [Token (LSC)](docs/09-token-lsc.md)
-- [Tokenomics](docs/10-tokenomics.md)
-- [Governance](docs/11-governance.md)
-- [Treasury](docs/12-treasury.md)
-- [AI Layer](docs/13-ai-layer.md)
-- [Smart Contracts](docs/14-smart-contracts.md)
-- [Security](docs/15-security.md)
-- [Use Cases](docs/17-use-cases.md)
-- [Roles](docs/18-roles.md)
-- [Incentives](docs/19-incentives.md)
-- [Roadmap](docs/20-roadmap.md)
-- [Risks](docs/21-risks.md)
-- [Final Statement](docs/23-final-statement.md)
+Full documentation is currently being structured and organized.
+
+Core sections include:
+
+- Executive Summary  
+- Problem  
+- Living Source Protocol  
+- Ontology  
+- Architecture  
+- Authority Model  
+- Record & Ledger  
+- Identity  
+- Token (LSC)  
+- Tokenomics  
+- Governance  
+- Treasury  
+- AI Layer  
+- Smart Contracts  
+- Security  
+- Use Cases  
+- Roles  
+- Incentives  
+- Roadmap  
+- Risks  
+- Final Statement  
+
