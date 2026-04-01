@@ -1,3 +1,10 @@
+## 🔗 Start Here
+
+- 🌐 **Live Site:** https://thelastdragon1130.github.io/living-source-protocol/
+- 📄 **Whitepaper Sections:** see below
+- 🧠 **Core Idea:** Authority originates from the source
+
+---
 🧠 Living Source Protocol (LSC)
 
 ### A Governance-First System for Origin-Aligned Execution
