@@ -87,6 +87,12 @@ To create systems where:
 ---
 
 ## Status
+## 🌐 Status
+
+- Live public whitepaper  
+- Architecture defined  
+- Governance system structured  
+- Protocol in development  
 
 🚧 Active Development  
 🌐 Public Infrastructure Phase  
