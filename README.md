@@ -10,7 +10,7 @@ Living Source Coin (LSC) is a governance-first protocol built on a simple truth:
 
 ## Architecture
 
-![Architecture](architecture-diagram.png)
+![Architecture](./architecture-diagram.png)
 
 ---
 
