@@ -5,7 +5,7 @@ Living Source Coin (LSC) white paper and protocol
 ![Architecture](architecture-diagram.png)
 ## Tokenomics
 
-**Total Supply:** 1,000,000,000 LSC
+**Total Supply:**  8,888,888,888 LSC
 
 - 30% — Ecosystem Development  
 - 20% — Treasury Reserve  
